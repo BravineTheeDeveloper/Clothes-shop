@@ -383,8 +383,45 @@ body {
 #small-banner .banner-box:hover button {
     background: #088178;
     border: 1px solid #088178;
-
 }
+
+
+/*Third banner collection*/
+
+#banner3 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 80px;
+}
+
+#banner3 .banner-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url("src/Banner/b7.jpg");
+    min-width: 30%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#banner3 h2 {
+    color: #fff;
+    font-weight: 900;
+    font-size: 22px;
+}
+
+#banner3 h3 {
+    color: #ef3636;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+
 
 
 /*Shop page*/
