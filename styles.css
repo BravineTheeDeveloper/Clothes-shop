@@ -41,7 +41,7 @@ p {
 }
 
 .section-m1 {
-    margin: 40px 0;
+    margin: 40px 40px 0 0;
 }
 
 button.normal {
@@ -428,6 +428,20 @@ body {
     font-weight: 800;
     font-size: 15px;
 }
+
+
+/*Newsletter Section*/
+#newsletter {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    background-image: url("src/Banner/b14.png");
+    background-repeat: no-repeat;
+    background-position: 20% 30%;
+    background-color: #041e42;
+}
+
 
 
 
