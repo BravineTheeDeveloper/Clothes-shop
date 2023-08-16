@@ -688,4 +688,9 @@ footer .follow .copyright {
     #banner3 .banner-box {
         width: 28%;
     }
+
+    /*Newsletter section*/
+    #newsletter .form {
+        width: 70%;
+    }
 }
