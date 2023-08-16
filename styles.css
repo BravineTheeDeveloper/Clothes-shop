@@ -126,6 +126,11 @@ body {
     left: 20px;
 }
 
+/*Hide close button in desktop view*/
+#close {
+    display: none;
+}
+
 /*Make the Shopping cart and Menu icon visible in mobile view only*/
 #mobile {
     display:none ;
@@ -625,5 +630,10 @@ footer .follow .copyright {
         left: 30px;
         color: #222;
         font-size: 24px;
+    }
+
+    /*Hide shopping cart in navbar menu*/
+    #lg-bag {
+        display: none;
     }
 }
