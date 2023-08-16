@@ -617,4 +617,13 @@ footer .follow .copyright {
         font-size: 24px;
         padding-left: 20px;
     }
+
+    /*Button to close navbar menu in mobile*/
+    #close {
+        position: absolute;
+        top: 30px;
+        left: 30px;
+        color: #222;
+        font-size: 24px;
+    }
 }
