@@ -126,6 +126,11 @@ body {
     left: 20px;
 }
 
+/*Make the Shopping cart and Menu icon visible in mobile view only*/
+#mobile {
+    display:none ;
+    align-items: center;
+}
 
 
 /*Home Page*/
@@ -594,5 +599,17 @@ footer .follow .copyright {
 
     #navbar li {
         margin-bottom: 20px;
+    }
+
+    /*Make the Shopping cart and Menu icon visible in mobile view only*/
+    #mobile {
+        display: flex;
+        align-items: center;
+    }
+
+    #mobile i {
+        color: #1a1a1a;
+        font-size: 24px;
+        padding-left: 20px;
     }
 }
