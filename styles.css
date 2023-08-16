@@ -125,6 +125,11 @@ body {
     left: 20px;
 }
 
+#mobile {
+    display: none;
+    align-items: center;
+}
+
 
 
 /*Home Page*/
@@ -591,10 +596,21 @@ footer .follow .copyright {
         margin-bottom: 25px;
     }
 
-    .menu {
+    /* .menu {
         font-size: 2rem;
         padding-top: 25px;
         margin-top: 15px;
         margin-bottom: 20px;
+    } */
+
+    #mobile {
+        display: flex;
+        align-items: center;
+    }
+
+    #mobile i{
+        color: #1a1a1a;
+        font-size: 24px;
+        padding-left: 20px;
     }
 }
