@@ -734,4 +734,9 @@ footer .follow .copyright {
     #product1 .pro {
         width: 100%;
     }
+
+    /*Second banner*/
+    #banner {
+        height: 40vh;
+    }
 }
