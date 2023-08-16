@@ -699,6 +699,10 @@ footer .follow .copyright {
 /*Phone Screen Mode (Responsiveness)*/
 @media (max-width: 477px) {
     /*Header section*/
+    .section-p1 {
+        padding: 20px;
+    }
+
     #header {
         padding: 10px 30px;
     }
@@ -715,5 +719,14 @@ footer .follow .copyright {
     #hero {
         padding: 0 20px;
         background-position: 60%;
+    }
+
+    /*Features section*/
+    #feature {
+        justify-content: space-between;
+    }
+    #feature .fe-box {
+        width: 130px;
+        margin:0 0 10px 0;
     }
 }
