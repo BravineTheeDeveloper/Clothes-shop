@@ -590,4 +590,10 @@ footer .follow .copyright {
     #navbar li {
         margin-bottom: 25px;
     }
+
+    .menu {
+        font-size: 2rem;
+        padding: 12px;
+        margin: 1rem;
+    }
 }
