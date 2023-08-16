@@ -587,6 +587,10 @@ footer .follow .copyright {
         overflow-x: hidden !important;
     }
 
+    .section-p1 {
+        padding: 40px 40px;
+    }
+
     #navbar {
         display: flex;
         flex-direction: column;
@@ -644,5 +648,19 @@ footer .follow .copyright {
         height: 70vh;
         padding: 0 80px;
         background-position: top 30% right 30%;
+    }
+
+    /*Features section*/
+    #feature {
+        justify-content: center;
+    }
+
+    #feature .fe-box {
+        margin: 15px 15px;
+    }
+
+    /*Featured products*/
+    #product1 .pro-container {
+        justify-content: center;
     }
 }
