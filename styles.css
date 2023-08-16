@@ -625,6 +625,7 @@ footer .follow .copyright {
 
     /*Button to close navbar menu in mobile*/
     #close {
+        display: initial;
         position: absolute;
         top: 30px;
         left: 30px;
@@ -635,5 +636,13 @@ footer .follow .copyright {
     /*Hide shopping cart in navbar menu*/
     #lg-bag {
         display: none;
+    }
+
+
+
+    #hero {
+        height: 70vh;
+        padding: 0 80px;
+        background-position: top 30% right 30%;
     }
 }
