@@ -735,8 +735,13 @@ footer .follow .copyright {
         width: 100%;
     }
 
-    /*Second banner*/
+    /*first banner*/
     #banner {
+        height: 40vh;
+    }
+
+    /*Small banner*/
+    #small-banner .banner-box {
         height: 40vh;
     }
 }
