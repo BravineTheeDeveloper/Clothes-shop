@@ -663,4 +663,14 @@ footer .follow .copyright {
     #product1 .pro-container {
         justify-content: center;
     }
+
+    #product1 .pro {
+        margin: 15px;
+    }
+
+
+    /*First Banner*/
+    #banner {
+        height: 20vh;
+    }
 }
