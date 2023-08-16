@@ -729,4 +729,9 @@ footer .follow .copyright {
         width: 130px;
         margin:0 0 10px 0;
     }
+
+    /*Products page*/
+    #product1 .pro {
+        width: 100%;
+    }
 }
