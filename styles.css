@@ -763,8 +763,16 @@ footer .follow .copyright {
     }
 
     /*Newsletter*/
+    #newsletter {
+        padding: 40px 20px;
+    }
+
     #newsletter .form {
         width: 100%;
     }
 
+    /*Footer*/
+    footer .copyright {
+        text-align: start;
+    }
 }
