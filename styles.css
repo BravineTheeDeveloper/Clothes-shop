@@ -753,4 +753,18 @@ footer .follow .copyright {
         margin-top: 20px;
     }
 
+    /*Banner 3*/
+    #banner3 {
+        padding: 0 20px;
+    }
+
+    #banner3 .banner-box {
+        width: 100%;
+    }
+
+    /*Newsletter*/
+    #newsletter .form {
+        width: 100%;
+    }
+
 }
