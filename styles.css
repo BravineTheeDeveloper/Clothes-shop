@@ -681,6 +681,10 @@ footer .follow .copyright {
         padding: 30px;
     }
 
+    #small-banner .banner-box2 {
+        margin-top: 20px;
+    }
+
     #banner3 {
         padding: 0 40px;
     }
@@ -744,4 +748,9 @@ footer .follow .copyright {
     #small-banner .banner-box {
         height: 40vh;
     }
+
+    #small-banner .banner-box2 {
+        margin-top: 20px;
+    }
+
 }
